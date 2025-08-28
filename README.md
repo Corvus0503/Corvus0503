@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kaiser!<br><br>I'm a passionate developer with a focus on building innovative solutions at the intersection of legal tech and AI. I love creating applications that solve real-world problems, particularly in multilingual contexts like Malagasy and French. My projects often combine modern web technologies, backend systems, and AI-driven tools to deliver seamless user experiences.
+👋 Hi, I'm Kaiser!<br><br>I'm a passionate developer with a focus on building innovative solutions at the intersection of legal tech and AI. I love creating applications that solve real-world problems. My projects often combine modern web technologies, backend systems, and AI-driven tools to deliver seamless user experiences.
 
 
 # 💻 Tech Stack:
